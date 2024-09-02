@@ -1,9 +1,23 @@
-# Simple-Calculator-in-C
-A basic calculator program implemented in C that performs addition, subtraction, multiplication, and division. The program allows users to select an operation and input two numbers to perform the calculation.
-Features
-Addition
-Subtraction
-Multiplication
-Division (with error handling for division by zero)
-Usage
-Compile and run the program using a C compiler. The program will display a menu allowing the user to choose an operation and enter two numbers.
+# Simple Calculator Program
+
+## Description
+
+This is a basic calculator program written in C. It can perform addition, subtraction, multiplication, and division. The program prompts users to select an operation and input two numbers, then displays the result.
+
+## Features
+
+- **Addition**: Adds two numbers.
+- **Subtraction**: Subtracts the second number from the first.
+- **Multiplication**: Multiplies two numbers.
+- **Division**: Divides the first number by the second, with error handling for division by zero.
+
+ 
+Simple Calculator Menu:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your choice (1-4), or 0 to exit: 1
+Enter two numbers: 5 3
+Result: 8.00
